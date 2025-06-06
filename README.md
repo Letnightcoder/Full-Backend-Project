@@ -10,3 +10,4 @@
 - **.gitkeep** if you create an empty folder like public/temp and try to commit it, Git will ignore it because there are no files inside. Then we use it.
 - **.gitignore** setup using *.gitignore generator*.
 - npm i -D nodemon
+- npm i -D prettier
