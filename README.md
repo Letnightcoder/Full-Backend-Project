@@ -20,3 +20,4 @@
 - [setup in mongodb](https://youtu.be/w4z8Py-UoNk?si=wVIp5qeE3nDd8SJn)
 - update **.env** file
 - npm i mongoose express dotenv
+- npm i cookie-parser cors
